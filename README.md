@@ -1,4 +1,5 @@
-# python：remove image background and change color jpg to png
+# python：将图片背景变透明，并将图片上的字颜色改成印泥红 Make the background of the picture transparent and change the color of the text on the picture to cinnabar red.
+Make the background of the picture transparent and change the color of the text on the picture to cinnabar red.
 把JPG转换为PNG格式，再把PNG图片的背景变透明，把字的颜色改成印泥红色
 适合把文字全部变成印泥红色的场景
 注意，使用时，可以把这两个脚本都放在桌面上，把你要处理的jpg图片名称改成 1.jpg , 脚本里面已经设置好了输出路径也是桌面。这样制作完成后的文件也会保存在桌面上。 （适合小白使用）
